@@ -107,6 +107,7 @@ namespace ScdMergeWizard
     public enum EComparisonMethod
     {
         StandardSQL,
-        HASHBYTES_MD5
+        HASHBYTES_MD5,
+        ExceptOperator
     }
 }
